@@ -32,21 +32,27 @@ Banyak orang bingung kenapa harus menggunakan TypeScript jika JavaScript biasa s
 Silakan klik salah satu materi di bawah ini untuk mulai belajar. Semua materi telah diringkas secara praktis lengkap dengan penjelasan kode baris demi baris:
 
 1. **[Part 1: Membuat Project Vue 3 (Vite)](file:///f:/DOC/DOC-VUE-TYPESCRIPT/docs/01-membuat-project-vue-3-vite.md)**
+1. **[Part 1: Membuat Project Vue 3 (Vite)](./docs/01-membuat-project-vue-3-vite.md)**
    *Belajar menginstal Node.js, membuat project Vue 3 TypeScript baru menggunakan Vite, dan menjalankan server lokal.*
    
 2. **[Part 2: Instalasi & Konfigurasi Vue Router](file:///f:/DOC/DOC-VUE-TYPESCRIPT/docs/02-install-dan-konfigurasi-vue-router.md)**
+2. **[Part 2: Instalasi & Konfigurasi Vue Router](./docs/02-install-dan-konfigurasi-vue-router.md)**
    *Belajar membuat halaman Single Page Application (SPA) tanpa reload, membuat halaman Home, mendesain navbar dengan Bootstrap 5 CDN, dan merender halaman.*
    
 3. **[Part 3: Menampilkan Data dari REST API](file:///f:/DOC/DOC-VUE-TYPESCRIPT/docs/03-menampilkan-data-dari-rest-api.md)**
+3. **[Part 3: Menampilkan Data dari REST API](./docs/03-menampilkan-data-dari-rest-api.md)**
    *Belajar menginstal Axios, membuat konfigurasi endpoint API global, mendefinisikan tipe data Interface Product, dan menampilkan daftar produk dalam tabel.*
    
 4. **[Part 4: Tambah Data & Upload Gambar](file:///f:/DOC/DOC-VUE-TYPESCRIPT/docs/04-insert-data-dengan-rest-api.md)**
+4. **[Part 4: Tambah Data & Upload Gambar](./docs/04-insert-data-dengan-rest-api.md)**
    *Belajar membuat form input produk baru, menangani input file biner (gambar), mengirim data menggunakan FormData ke REST API, dan menangani error validasi dari server.*
    
 5. **[Part 5: Mengubah & Update Data](file:///f:/DOC/DOC-VUE-TYPESCRIPT/docs/05-edit-dan-update-data-dengan-rest-api.md)**
+5. **[Part 5: Mengubah & Update Data](./docs/05-edit-dan-update-data-dengan-rest-api.md)**
    *Belajar mengambil detail data berdasarkan ID untuk mengisi form secara otomatis (*pre-filled*), dan mengupdate data ke server menggunakan trik _method PUT.*
    
 6. **[Part 6: Menghapus Data (Delete)](file:///f:/DOC/DOC-VUE-TYPESCRIPT/docs/06-delete-data-dengan-rest-api.md)**
+6. **[Part 6: Menghapus Data (Delete)](./docs/06-delete-data-dengan-rest-api.md)**
    *Belajar membuat tombol hapus produk dengan konfirmasi browser, mengirim request HTTP DELETE via Axios, dan mengupdate isi tabel secara instan tanpa reload halaman.*
 
 ---
