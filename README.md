@@ -51,6 +51,19 @@ Silakan klik salah satu materi di bawah ini untuk mulai belajar. Semua materi te
 
 ---
 
+## 🌐 Referensi & Sumber Materi Asli
+
+Dokumentasi ini dirangkum dari seri artikel tutorial **SantriKoding**:
+
+* 🔗 **Part 1:** [Tutorial Vue 3 TypeScript #1: Membuat Project Vue 3 (Vite)](https://santrikoding.com/tutorial-vue-3-typescript-1-membuat-project-vue-3-vite)
+* 🔗 **Part 2:** [Tutorial Vue 3 TypeScript #2: Install dan Konfigurasi Vue Router](https://santrikoding.com/tutorial-vue-3-typescript-2-install-dan-konfigurasi-vue-router)
+* 🔗 **Part 3:** [Tutorial Vue 3 TypeScript #3: Menampilkan Data dari Rest API](https://santrikoding.com/tutorial-vue-3-typescript-3-menampilkan-data-dari-rest-api)
+* 🔗 **Part 4:** [Tutorial Vue 3 TypeScript #4: Insert Data Dengan Rest API](https://santrikoding.com/tutorial-vue-3-typescript-4-insert-data-dengan-rest-api)
+* 🔗 **Part 5:** [Tutorial Vue 3 TypeScript #5: Edit dan Update Data Dengan Rest API](https://santrikoding.com/tutorial-vue-3-typescript-5-edit-dan-update-data-dengan-rest-api)
+* 🔗 **Part 6:** [Tutorial Vue 3 TypeScript #6: Delete Data Dengan Rest API](https://santrikoding.com/tutorial-vue-3-typescript-6-delete-data-dengan-rest-api)
+
+---
+
 ## 🛠️ Tech Stack yang Digunakan
 
 * **Vue 3 (Composition API):** Framework JavaScript modern yang reaktif dan cepat.
